@@ -1,0 +1,20 @@
+{
+  "name": "balancedbrackets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "should": "^13.1.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.3.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
